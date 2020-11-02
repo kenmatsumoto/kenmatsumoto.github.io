@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.nri.instantappsample",
+    "sha256_cert_fingerprints":
+    ["8A:26:AB:E5:A1:27:5A:0C:1E:AD:2C:B4:77:3D:2A:50:57:01:DB:C0:CB:6A:E4:A6:4D:ED:90:BB:75:50:35:B9"]
+  }
+}]
